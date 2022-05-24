@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simplechatapp/static/css/main.f37cfa8f.css",
+    "main.js": "/simplechatapp/static/js/main.a54c821e.js",
+    "index.html": "/simplechatapp/index.html",
+    "main.f37cfa8f.css.map": "/simplechatapp/static/css/main.f37cfa8f.css.map",
+    "main.a54c821e.js.map": "/simplechatapp/static/js/main.a54c821e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37cfa8f.css",
+    "static/js/main.a54c821e.js"
+  ]
+}
