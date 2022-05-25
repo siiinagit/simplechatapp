@@ -22,7 +22,7 @@ const SendMessage = ({scroll}) => {
   return (
     <div>
       <form onSubmit={createMessage}>
-        <Input style={{ width: '78%', fontSize: '15px', fontWeight: '550', marginLeft: '5px', marginBottom: '-3px' }} value={msg} onChange={(e)=> setMsg(e.target.value)} placeholder="Message..." />
+        <Input style={{ width: '78%', fontSize: '12px', fontWeight: '550', marginLeft: '5px', marginBottom: '-3px' }} value={msg} onChange={(e)=> setMsg(e.target.value)} placeholder="Message..." />
         <Button style={{ width: '18%', fontSize: '12px', fontWeight: '550', margin: '4px 5% -13px 5%', maxWidth: '200px'}} type="submit">SEND</Button>
       </form>
     </div>
